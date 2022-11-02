@@ -1,0 +1,7 @@
+{
+  "name": "nightwatch-demo",
+  "scripts": {
+    "test": ""
+  },
+  "license": "ISC"
+}
