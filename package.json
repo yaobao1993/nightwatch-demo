@@ -1,7 +1,11 @@
 {
   "name": "nightwatch-demo",
   "scripts": {
-    "test": ""
+    "test": "nightwatch --config nightwatch.conf.js"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^107.0.2",
+    "nightwatch": "^2.4.1"
+  }
 }
